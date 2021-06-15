@@ -1,0 +1,28 @@
+# XP-Pen
+# Deco 01
+#
+
+[Device]
+Name=A610PRO
+ModelName=A610PRO
+DeviceMatch=usb:28bd:1903
+Class=Bamboo
+Width=10
+Height=6
+IntegratedIn=
+Layout=xp-pen-star03.svg
+Styli=0xffffd;
+
+[Features]
+Stylus=true
+Reversible=true
+Touch=false
+Buttons=10
+Ring=true
+
+[Buttons]
+Left=A;B;C;D;E;F;G;H;I;J
+EvdevCodes=0x100;0x101;0x102;0x103;0x104;0x105;0x106;0x107;0x108;0x109
+
+Ring=A
+
