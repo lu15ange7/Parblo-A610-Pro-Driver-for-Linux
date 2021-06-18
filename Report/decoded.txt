@@ -1,0 +1,10 @@
+    |           Manufacturer: 
+    |                Product: 10 inch PenTablet
+ 64 |        Params block #1: ??????
+    |                          Max X: 51094
+    |                          Max Y: 31993
+    |                   Max pressure: 8191
+    |                     Resolution: 5080
+    |
+ 79 |         Internal model: 
+ 7b |         Buttons status: HK On
